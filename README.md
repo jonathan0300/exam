@@ -1,5 +1,7 @@
 
 ## To start
+This app is built on top of vue and laravel.
+In laravel I have used repository pattern to separate the application and business logic.
 
 ```
 $ composer install
